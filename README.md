@@ -13,8 +13,9 @@ Pointer (Or Reference) to the next node
 
 
 In C/C++, we can represent a node using structure. Below is an example of a linked list node with integer data.
-struct Node
-{
-    int data;
-    struct Node* next; 
-};
+
+          struct Node
+          {
+              int data;
+              struct Node* next; 
+          };
