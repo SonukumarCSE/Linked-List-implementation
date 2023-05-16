@@ -1,4 +1,4 @@
-# Linked-List-
+# Linked-List-implementation
 Simple Linked list implementation in C++
 
 
